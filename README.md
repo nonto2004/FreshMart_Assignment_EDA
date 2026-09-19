@@ -29,6 +29,7 @@ The analysis focuses on:
 
 - Python
 - Pandas
+- Plotly express
 - Data profiling and cleaning
 - Data analysis and visualisation
 
